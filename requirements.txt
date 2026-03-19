@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+kafka-python
+boto3
+pyspark
+torch
+byte-tracker @ git+https://github.com/ifzhang/ByteTrack.git
