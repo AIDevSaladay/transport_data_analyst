@@ -1,0 +1,12 @@
+Collecting git+https://github.com/ifzhang/ByteTrack.git
+  Cloning https://github.com/ifzhang/ByteTrack.git to /tmp/pip-req-build-d2w_xbci
+  Running command git clone --filter=blob:none --quiet https://github.com/ifzhang/ByteTrack.git /tmp/pip-req-build-d2w_xbci
+  Resolved https://github.com/ifzhang/ByteTrack.git to commit d1bf0191adff59bc8fcfeaa0b33d3d1642552a99
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: yolox
+  Building wheel for yolox (setup.py) ... done
+  Created wheel for yolox: filename=yolox-0.1.0-cp311-cp311-linux_x86_64.whl size=452823 sha256=6595e514febbc16afe30d3e78c6a208d238ce1fd4e605f7480426e436ffce722
+  Stored in directory: /tmp/pip-ephem-wheel-cache-yjgybc0r/wheels/d2/f6/27/00e4c654d40c507a4da3a6d8536126323ea375e387ff833c89
+Successfully built yolox
+Installing collected packages: yolox
+Successfully installed yolox-0.1.0
